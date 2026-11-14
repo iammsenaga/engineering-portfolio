@@ -8,8 +8,8 @@ I build applications across healthcare, elections, commerce and research. These 
 
 | Project | My role | Focus | Read more |
 | :--- | :--- | :--- | :--- |
-| iBible | Application creator & developer | Bible reading, search, accounts and personal notes | [Private-source project overview](projects/ibible.md) |
-| Senaga Weather | Developer | Flask, metric weather data and external API integration | [Public source](https://github.com/iammsenaga/senaga-weather) |
+| iBible | Application creator & developer | Bible reading, search, accounts and personal notes | [Private-source project overview](projects/ibible.md) · [Live app](https://miprojects.pythonanywhere.com/bible/) |
+| Senaga Weather | Developer | Flask, metric weather data and external API integration | [Public source](https://github.com/iammsenaga/senaga-weather) · [Live app](https://miprojects.pythonanywhere.com/weather/) |
 | Hand Cursor | Developer | Webcam gestures, local browser/Python bridge and Windows cursor control | [Project overview](projects/hand-cursor.md) |
 | Evbayiro-IRR calculator | Package author & demo developer | Browser-based Python, numerical results and transparent calculation paths | [Interactive demo](https://evbayiro-irr-demo.deep-snow-8926.chatgpt.site) |
 | VPRS | Product architect, veterinary lead & full-stack developer | Clinical workflows, decision support, reporting | [Case study](projects/vprs.md) |
@@ -18,6 +18,8 @@ I build applications across healthcare, elections, commerce and research. These 
 | Personal portfolio | Designer & developer | Interactive storytelling, publishing, responsive interfaces | [Case study](projects/personal-portfolio.md) |
 | Senaga Leads Extractor | Extension creator & developer | Browser extension, tab capture and local storage | [Public source](https://github.com/iammsenaga/senaga-leads-extractor) |
 | PwetyPawcher Counter | Developer | Sampling with replacement, browser state and persistence | [Public source](https://github.com/iammsenaga/pwetypawcher) Â· [Demo](https://iammsenaga.github.io/pwetypawcher/) |
+
+[Shared project hub](https://miprojects.pythonanywhere.com/)
 
 ## How to explore
 

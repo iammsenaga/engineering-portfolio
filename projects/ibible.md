@@ -4,7 +4,7 @@
 **Technologies:** Python, Flask, HTML/CSS, SQLite  
 **Source:** Private
 
-[All projects](../README.md) · [Author portfolio](https://senagadavid.netlify.app/)
+[Live app](https://miprojects.pythonanywhere.com/bible/) � [All projects](../README.md) · [Author portfolio](https://senagadavid.netlify.app/)
 
 ## The product
 
@@ -24,6 +24,6 @@ The application combines external Bible-content services with local account and 
 
 ## Current status
 
-The original project has been recovered and repaired locally. Fresh hosting is being prepared under the author's project hub; a live link will be added after deployment verification.
+Recovered and repaired, then hosted under the author's shared project hub at `/bible/`. Hosted checks covered registration, login, live chapter retrieval, personal notes and note-deletion permissions using synthetic records.
 
 This is a public product overview only. The application source, database and account records are private.
