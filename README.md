@@ -13,6 +13,7 @@ I build applications across healthcare, elections, commerce and research. These 
 | SEV | Product architect & full-stack developer | Election operations, verification, voting and results | [Case study](projects/sev.md) |
 | MealsByMoon | Full-stack developer | Customer ordering, menu management, catering | [Case study](projects/mealsbymoon.md) |
 | Personal portfolio | Designer & developer | Interactive storytelling, publishing, responsive interfaces | [Case study](projects/personal-portfolio.md) |
+| Senaga Leads Extractor | Extension creator & developer | Browser extension, tab capture and local storage | [Public source](https://github.com/iammsenaga/senaga-leads-extractor) |
 | PwetyPawcher Counter | Developer | Sampling with replacement, browser state and persistence | [Public source](https://github.com/iammsenaga/pwetypawcher) · [Demo](https://iammsenaga.github.io/pwetypawcher/) |
 
 ## How to explore
@@ -23,4 +24,4 @@ Start with **VPRS** for a domain-intensive product, **SEV** for election workflo
 
 VPRS, SEV, MealsByMoon and my personal portfolio are proprietary projects. This repository contains documentation only. It does not include their application source, algorithms, datasets, credentials or operational records.
 
-PwetyPawcher Counter has its own public source repository.
+PwetyPawcher Counter and Senaga Leads Extractor each have a public source repository.
