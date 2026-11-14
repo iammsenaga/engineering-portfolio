@@ -1,5 +1,6 @@
 # VPRS — Veterinary Patient Record & Intelligence System
 
+**Original project year:** 2025  
 **Role:** Product architect, veterinary lead & full-stack developer  
 **Technologies:** Python, Flask, React, TypeScript, SQL  
 **Source:** Private

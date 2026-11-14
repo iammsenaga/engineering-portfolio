@@ -1,5 +1,6 @@
 # SEV — Secure Election Voting
 
+**Original project year:** 2025  
 **Role:** Product architect & full-stack developer  
 **Technologies:** React, TypeScript, Flask, MySQL, MediaPipe  
 **Source:** Private

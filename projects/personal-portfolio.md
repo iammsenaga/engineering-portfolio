@@ -1,5 +1,6 @@
 # Personal portfolio — An interactive home for my work
 
+**Original project year:** 2026  
 **Role:** Designer & developer  
 **Technologies:** React, TypeScript, Vite, Three.js, Framer Motion, Netlify  
 **Source:** Private

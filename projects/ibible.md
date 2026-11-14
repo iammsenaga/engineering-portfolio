@@ -1,10 +1,11 @@
 # iBible — Bible reading and personal study
 
+**Original project year:** 2023  
 **Role:** Application creator & developer  
 **Technologies:** Python, Flask, HTML/CSS, SQLite  
 **Source:** Private
 
-[Live app](https://miprojects.pythonanywhere.com/bible/) � [All projects](../README.md) · [Author portfolio](https://senagadavid.netlify.app/)
+[Live app](https://miprojects.pythonanywhere.com/bible/) · [All projects](../README.md) · [Author portfolio](https://senagadavid.netlify.app/)
 
 ## The product
 

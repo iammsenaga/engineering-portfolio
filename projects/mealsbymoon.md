@@ -1,5 +1,6 @@
 # MealsByMoon — Food commerce & catering
 
+**Original project year:** 2025  
 **Role:** Full-stack developer  
 **Technologies:** React, TypeScript, Vite, Flask, SQLite  
 **Source:** Private

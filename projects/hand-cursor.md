@@ -1,5 +1,6 @@
 # Hand Cursor — Webcam gesture control
 
+**Original project year:** 2026  
 **Role:** Developer  
 **Technologies:** Python, JavaScript, MediaPipe, Windows APIs  
 **Source:** Private experiment
