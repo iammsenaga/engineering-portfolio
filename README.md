@@ -12,7 +12,7 @@ I build applications across healthcare, elections, commerce and research. These 
 | SEV | Product architect & full-stack developer | Election operations, verification, voting and results | [Case study](projects/sev.md) |
 | MealsByMoon | Full-stack developer | Customer ordering, menu management, catering | [Case study](projects/mealsbymoon.md) |
 | Personal portfolio | Designer & developer | Interactive storytelling, publishing, responsive interfaces | [Case study](projects/personal-portfolio.md) |
-| PwetyPawcher Counter | Developer | Sampling with replacement, browser state and persistence | [Public source](https://github.com/iammsenaga/pwetypawcher) |
+| PwetyPawcher Counter | Developer | Sampling with replacement, browser state and persistence | [Public source](https://github.com/iammsenaga/pwetypawcher) · [Demo](https://iammsenaga.github.io/pwetypawcher/) |
 
 ## How to explore
 
