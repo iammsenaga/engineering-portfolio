@@ -8,19 +8,19 @@ I build applications across healthcare, elections, commerce and research. These 
 
 | Project | Original year | My role | Focus | Read more |
 | :--- | :--- | :--- | :--- | :--- |
-| Senaga Bulk Emailer | 2024 | Creator & developer | Flask, validated imports, message previews and authenticated private sending | [Public source](https://github.com/iammsenaga/senaga-bulk-emailer) · [Preview demo](https://miprojects.pythonanywhere.com/bulk-emailer/) |
-| iBible | 2023 | Application creator & developer | Bible reading, search, accounts and personal notes | [Private-source project overview](projects/ibible.md) · [Live app](https://miprojects.pythonanywhere.com/bible/) |
-| Senaga Weather | 2023 | Developer | Flask, metric weather data and external API integration | [Public source](https://github.com/iammsenaga/senaga-weather) · [Live app](https://miprojects.pythonanywhere.com/weather/) |
-| Hand Cursor | 2026 | Developer | Webcam gestures, local browser/Python bridge and Windows cursor control | [Project overview](projects/hand-cursor.md) |
-| Evbayiro-IRR calculator | 2026 | Package author & demo developer | Browser-based Python, numerical results and transparent calculation paths | [Interactive demo](https://evbayiro-irr-demo.deep-snow-8926.chatgpt.site) |
 | VPRS | 2025 | Product architect, veterinary lead & full-stack developer | Clinical workflows, decision support, reporting | [Case study](projects/vprs.md) |
 | SEV | 2025 | Product architect & full-stack developer | Election operations, verification, voting and results | [Case study](projects/sev.md) |
+| Evbayiro-IRR calculator | 2026 | Package author & demo developer | Browser-based Python, numerical results and transparent calculation paths | [Interactive demo](https://evbayiro-irr-demo.deep-snow-8926.chatgpt.site) |
 | MealsByMoon | 2025 | Full-stack developer | Customer ordering, menu management, catering | [Case study](projects/mealsbymoon.md) |
 | Personal portfolio | 2026 | Designer & developer | Interactive storytelling, publishing, responsive interfaces | [Case study](projects/personal-portfolio.md) |
+| iBible | 2023 | Application creator & developer | Bible reading, search, accounts and personal notes | [Private-source project overview](projects/ibible.md) · [Live app](https://miprojects.pythonanywhere.com/bible/) |
+| Senaga Weather | 2023 | Developer | Flask, metric weather data and external API integration | [Public source](https://github.com/iammsenaga/senaga-weather) · [Live app](https://miprojects.pythonanywhere.com/weather/) |
+| Senaga Bulk Emailer | 2024 | Creator & developer | Flask, validated imports, message previews and authenticated private sending | [Public source](https://github.com/iammsenaga/senaga-bulk-emailer) · [Preview demo](https://miprojects.pythonanywhere.com/bulk-emailer/) |
 | Senaga Leads Extractor | 2022 | Extension creator & developer | Browser extension, tab capture and local storage | [Public source](https://github.com/iammsenaga/senaga-leads-extractor) |
 | PwetyPawcher Counter | 2026 | Developer | Sampling with replacement, browser state and persistence | [Public source](https://github.com/iammsenaga/pwetypawcher) · [Demo](https://iammsenaga.github.io/pwetypawcher/) |
+| Hand Cursor | 2026 | Developer | Webcam gestures, local browser/Python bridge and Windows cursor control | [Project overview](projects/hand-cursor.md) |
 
-[Shared project hub](https://miprojects.pythonanywhere.com/)
+[Browse all project demos](https://senagadavid.netlify.app/practice#project-collection)
 
 ## How to explore
 
