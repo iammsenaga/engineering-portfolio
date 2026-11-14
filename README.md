@@ -2,7 +2,7 @@
 
 **Dr. Osasenaga David Evbayiro** · Software engineer & founder, $E-Network
 
-[Portfolio website](https://senagadavid.netlify.app/) · [LinkedIn](https://ng.linkedin.com/in/osasenaga-evbayiro-4a7885395) · [Contact](mailto:senaga.tech.hub@gmail.com)
+[Portfolio website](https://senagadavid.netlify.app/) · [CV (PDF)](https://github.com/iammsenaga/iammsenaga/raw/refs/heads/main/assets/Osasenaga-David-Evbayiro-CV.pdf) · [LinkedIn](https://ng.linkedin.com/in/osasenaga-evbayiro-4a7885395) · [Contact](mailto:senaga.tech.hub@gmail.com)
 
 I build applications across healthcare, elections, commerce and research. These case studies explain the problems, my responsibilities and the engineering considerations behind selected products.
 
