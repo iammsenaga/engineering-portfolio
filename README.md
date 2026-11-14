@@ -8,6 +8,7 @@ I build applications across healthcare, elections, commerce and research. These 
 
 | Project | My role | Focus | Read more |
 | :--- | :--- | :--- | :--- |
+| Evbayiro-IRR calculator | Package author & demo developer | Browser-based Python, numerical results and transparent calculation paths | [Interactive demo](https://evbayiro-irr-demo.deep-snow-8926.chatgpt.site) |
 | VPRS | Product architect, veterinary lead & full-stack developer | Clinical workflows, decision support, reporting | [Case study](projects/vprs.md) |
 | SEV | Product architect & full-stack developer | Election operations, verification, voting and results | [Case study](projects/sev.md) |
 | MealsByMoon | Full-stack developer | Customer ordering, menu management, catering | [Case study](projects/mealsbymoon.md) |
