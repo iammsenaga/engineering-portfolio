@@ -8,6 +8,9 @@ I build applications across healthcare, elections, commerce and research. These 
 
 | Project | My role | Focus | Read more |
 | :--- | :--- | :--- | :--- |
+| iBible | Application creator & developer | Bible reading, search, accounts and personal notes | [Private-source project overview](projects/ibible.md) |
+| Senaga Weather | Developer | Flask, metric weather data and external API integration | [Public source](https://github.com/iammsenaga/senaga-weather) |
+| Hand Cursor | Developer | Webcam gestures, local browser/Python bridge and Windows cursor control | [Project overview](projects/hand-cursor.md) |
 | Evbayiro-IRR calculator | Package author & demo developer | Browser-based Python, numerical results and transparent calculation paths | [Interactive demo](https://evbayiro-irr-demo.deep-snow-8926.chatgpt.site) |
 | VPRS | Product architect, veterinary lead & full-stack developer | Clinical workflows, decision support, reporting | [Case study](projects/vprs.md) |
 | SEV | Product architect & full-stack developer | Election operations, verification, voting and results | [Case study](projects/sev.md) |
@@ -22,6 +25,6 @@ Start with **VPRS** for a domain-intensive product, **SEV** for election workflo
 
 ## Source availability
 
-VPRS, SEV, MealsByMoon and my personal portfolio are proprietary projects. This repository contains documentation only. It does not include their application source, algorithms, datasets, credentials or operational records.
+VPRS, SEV, MealsByMoon, iBible and my personal portfolio have private source code. Hand Cursor is a private experiment. This repository contains documentation only. It does not include their application source, algorithms, datasets, credentials or operational records.
 
-PwetyPawcher Counter and Senaga Leads Extractor each have a public source repository.
+PwetyPawcher Counter, Senaga Leads Extractor and Senaga Weather each have a public source repository. The Evbayiro-IRR package was already published separately as open source.
